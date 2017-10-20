@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_default.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\edittext_default.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_simplelist.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\bg_dialog_simplelist.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_gray.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\round_corner_filter_gray.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_progressbar_bg.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\listview_progressbar_bg.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_progressbar_bg.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\listview_progressbar_bg.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_receive.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\bg_message_box_receive.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_failed.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\bg_message_status_failed.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\btn_chatbtn.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_default.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\edittext_default.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_listitem_selector.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\bg_dialog_listitem_selector.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\btn_chatbtn.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emote_selector.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\btn_emote_selector.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emote_selector.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\btn_emote_selector.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_send.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\bg_message_box_send.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gray_round_frame_n.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\shape_gray_round_frame_n.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_receive.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\bg_message_box_receive.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_listitem_selector.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\bg_dialog_listitem_selector.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector_user.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\bglistitem_selector_user.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gray_round_frame_n.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\shape_gray_round_frame_n.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_multiline.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\edittext_multiline.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_sendmsg.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\edittext_sendmsg.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gray_round_frame_n.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\shape_gray_round_frame_n.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_transition.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\list_selector_transition.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_repeat.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\bg_chat_repeat.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottombar.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\btn_bottombar.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_famal.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\bg_gender_famal.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_multiline.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\edittext_multiline.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_flat.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\btn_default_flat.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\btn_red.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_press.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\round_corner_filter_cover_press.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_failed.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\bg_message_status_failed.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_simplelist.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\bg_dialog_simplelist.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_male.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\bg_gender_male.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\lib_update_app_info_bg.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\11ea4839d0f035dedfefab6c5c2e5a020d8be5e8\\output\\res\\drawable\\lib_update_app_info_bg.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_male.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\bg_gender_male.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_flat.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\btn_default_flat.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_selected.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\round_corner_filter_cover_selected.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\btn_default.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_simplelist.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\bg_dialog_simplelist.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_send.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\bg_message_box_send.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_listitem_selector.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\bg_dialog_listitem_selector.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_selected.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\round_corner_filter_cover_selected.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottombar.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\btn_bottombar.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_nomarl.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\round_corner_filter_cover_nomarl.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\btn_default.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\btn_chatbtn.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_nomarl.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\round_corner_filter_cover_nomarl.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_download_process_bar.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\bg_download_process_bar.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_famal.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\bg_gender_famal.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emote_selector.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\btn_emote_selector.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_filter_cover.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\btn_filter_cover.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector_user.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\bglistitem_selector_user.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn3.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\btn_chatbtn3.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_failed.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\bg_message_status_failed.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn3.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\btn_chatbtn3.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn3.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\btn_chatbtn3.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_plusitem.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\bg_chat_plusitem.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_plusitem.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\bg_chat_plusitem.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_plusitem.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\bg_chat_plusitem.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_famal.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\bg_gender_famal.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_filter_cover.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\btn_filter_cover.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_selected.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\round_corner_filter_cover_selected.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottombar.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\btn_bottombar.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\btn_default.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_transition.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\list_selector_transition.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\btn_red.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_download_process_bar.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\bg_download_process_bar.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_download_process_bar.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\bg_download_process_bar.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_transition.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\list_selector_transition.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_repeat.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\bg_chat_repeat.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\btn_red.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn2.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\btn_chatbtn2.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn2.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\btn_chatbtn2.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_progressbar_bg.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\listview_progressbar_bg.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_send.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\bg_message_box_send.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_avatar.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\corners_avatar.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_filter_cover.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\btn_filter_cover.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_receive.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\bg_message_box_receive.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_male.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\bg_gender_male.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_flat.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\btn_default_flat.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_multiline.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\edittext_multiline.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector_user.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\bglistitem_selector_user.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_sendmsg.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\edittext_sendmsg.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_avatar.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\corners_avatar.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\lib_update_app_info_bg.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\11ea4839d0f035dedfefab6c5c2e5a020d8be5e8\\output\\res\\drawable\\lib_update_app_info_bg.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_default.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\edittext_default.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_press.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\round_corner_filter_cover_press.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_gray.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\round_corner_filter_gray.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_avatar.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\corners_avatar.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_press.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\round_corner_filter_cover_press.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn2.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\wifi1\\Wifi\\WifiChat-master\\res\\drawable\\btn_chatbtn2.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_repeat.xml",
+        "source": "F:\\projects\\2017-10-19\\Wifi\\WifiChat-master\\res\\drawable\\bg_chat_repeat.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_sendmsg.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\edittext_sendmsg.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\VULCAN\\.android\\build-cache\\106f576cc35d93ae2bcc3ab3d5e2e7cb5256f051\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_nomarl.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\round_corner_filter_cover_nomarl.xml"
+    },
+    {
+        "merged": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_gray.xml",
+        "source": "F:\\projects\\2017-10-19\\2017-10-19wifi-chat\\Wifi\\WifiChat-master\\res\\drawable\\round_corner_filter_gray.xml"
+    }
+]
